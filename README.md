@@ -9,3 +9,5 @@ aoi.js
 discord.js
 
 Y pues es todo jeje
+
+https://github-readme-stats.vercel.app/api?username=adoniscrak&bg_color=10,ff8000,ffff00&title_color=fff&text_color=fff&locale=es
