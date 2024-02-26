@@ -1,3 +1,4 @@
+### Sobre mi
 Hola! soy Adoniscrak.
 
 Un youtuber y programador, creador de animaciones, y de juegos.
@@ -10,7 +11,10 @@ discord.js
 
 Y pues es todo jeje
 
+***
+
+### Estadísticas de Github
 
 ![](https://komarev.com/ghpvc/?username=adoniscrak&abbreviated=true&color=yellow)
 
-![](https://github-readme-stats.vercel.app/api?username=adoniscrak&bg_color=10,ff8000,ffff00&title_color=fff&text_color=fff&locale=es)
+![](https://github-readme-stats.vercel.app/api?username=adoniscrak&&show_icons=true&include_all_commits=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=24292e&locale=es
