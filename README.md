@@ -17,5 +17,5 @@ Y pues es todo jeje
 
 ![](https://komarev.com/ghpvc/?username=adoniscrak&abbreviated=true&color=yellow)
 
-![](https://github-readme-stats.vercel.app/api?username=adoniscrak&&show_icons=true&include_all_commits=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=24292e&locale=es)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniscrak&show_icons=true&hide_border=true&theme=radical&locale=es)
+![](https://github-readme-stats.vercel.app/api?username=adoniscrak&&show_icons=true&include_all_commits=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=24292e)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniscrak&show_icons=true&hide_border=true&theme=radical)
