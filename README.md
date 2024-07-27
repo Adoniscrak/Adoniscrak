@@ -1,5 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=ffff00&text=Adoniscrak&fontColor=ffffff&fontAlignY=45&animation=twinkling)
-
 ### Sobre mi
 Hola! soy Adoniscrak.
 
