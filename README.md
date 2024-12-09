@@ -20,3 +20,9 @@ Y pues es todo jeje
 
 ![](https://github-readme-stats.vercel.app/api?username=adoniscrak&&show_icons=true&title_color=ffff00&icon_color=ffff00&text_color=fff&bg_color=24292e)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adoniscrak&title_color=ffff00&text_color=fff&bg_color=24292e)
+
+***
+
+### Estado de Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1186382000421089360)](https://discord.com/users/1186382000421089360)
